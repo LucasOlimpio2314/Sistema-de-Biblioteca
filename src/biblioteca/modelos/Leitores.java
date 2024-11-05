@@ -1,18 +1,19 @@
 package biblioteca.modelos;
 
-public class Leitores  {
-	private String nomeCompleto;
-	
+public abstract class Leitores  {
+	private String nome;
 	
 	
 	public String getNomeCompleto() {
-		return nomeCompleto;
+		return nome;
 	}
 
 	public void setNomeCompleto(String nomeCompleto) {
-		this.nomeCompleto = nomeCompleto;
+		this.nome = nomeCompleto;
 	}
 	
-	
+	public String getLeitor() {
+		return nome;
+	}
 	
 }

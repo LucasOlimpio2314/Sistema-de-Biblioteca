@@ -1,17 +1,19 @@
 package biblioteca;
 
-import biblioteca.controladores.InformacoesLivro;
+import biblioteca.controladores.InformacoesLeitores;
+//import biblioteca.controladores.InformacoesLivro;
 
 public class Main {
 
 	public static void main(String[] args) {
-		InformacoesLivro iLivro = new InformacoesLivro();
+		//InformacoesLivro iLivro = new InformacoesLivro();
+		InformacoesLeitores iLeitores = new InformacoesLeitores();
 		
-		iLivro.cadastroDeLivros();
-		iLivro.cadastroDeLivros();
-		iLivro.carregarLivros();
-		iLivro.removerLivro(0);
-		iLivro.carregarLivros();
+		iLeitores.cadastroDeLeitor();
+		iLeitores.carregarLeitores();
+		iLeitores.atualizarLeitor(0);
+		iLeitores.carregarLeitores();
 	}
+		
 
 }

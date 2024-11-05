@@ -11,6 +11,11 @@ public class PessoaJuridica extends Leitores {
 		return super.getNomeCompleto();
 	}
 	
+	@Override
+	public String getLeitor() {
+		return super.getLeitor() + "\n" + cnpg;
+	}
+	
 	public void setCnpg(String cnpg) {
 		this.cnpg = cnpg;
 	}
@@ -18,4 +23,6 @@ public class PessoaJuridica extends Leitores {
 	public void setNomeCompleto(String nomeCompleto) {
 		super.setNomeCompleto(nomeCompleto);
 	}
+	
+	
 }
