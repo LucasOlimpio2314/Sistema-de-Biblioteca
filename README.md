@@ -39,4 +39,11 @@ Este projeto foi desenvolvido como parte do trabalho da disciplina **Modelagem e
 - **Lucas Barreto Olimpio** - R.A: 924100328  
 - **Kelvin Felipe dos Santos** - R.A: 923200158  
 - **Miguel Benites de Almeida** - R.A: 923209649  
-- **Thiago Rocha Santana** - R.A: 923204332  
+- **Thiago Rocha Santana** - R.A: 923204332
+- **Karen de Moraes Teixeira** - R.A: 924113300  
+- **Lucas Barreto Olimpio** - R.A: 924100328  
+- **Lavínia Alves** - R.A: 924112295  
+- **Viviane Souza** - R.A: 924105503  
+- **Ana Lucia Soares de Oliveira** - R.A: 324101704  
+- **Guilherme da Silva Ferreira** - R.A: 924111677  
+
