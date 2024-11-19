@@ -75,4 +75,8 @@ public class InformacoesLivro {
 			}
 		}
 	}
+	
+	public ArrayList<Livros> getListaLivros() {
+		return listaLivros;
+	}
 }

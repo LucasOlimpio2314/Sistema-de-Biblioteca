@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 import biblioteca.exceptions.TipoPessoaInvalidoException;
 import biblioteca.modelos.Leitores;
-import biblioteca.modelos.Livros;
 import biblioteca.modelos.PessoaFisica;
 import biblioteca.modelos.PessoaJuridica;
 import biblioteca.util.FormatadorCpfECnpj;
@@ -112,5 +111,9 @@ public class InformacoesLeitores {
 		}
 			
 		}
+	
+	public ArrayList<Leitores> getArrayListLeitores() {
+		return listaLeitores;
+	}
 	
 }
