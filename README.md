@@ -19,8 +19,9 @@ Este projeto foi desenvolvido como parte do trabalho da disciplina **Modelagem e
   
 ### 📖 Gerenciamento de Empréstimos
 - **Cadastro de Empréstimo:** Registrar o empréstimo de livros para leitores. O sistema permite que o leitor escolha um livro disponível e o empreste para um período determinado.
-- **Atualização de Empréstimo:** Atualizar informações de empréstimos registrados, como a data de devolução e status.
+- **Remoção de Empréstimo:** Remover empréstimos registrados.
 - **Listar Empréstimos:** Exibir a lista de todos os empréstimos realizados.
+
   ## 📂 Diagrama de Classe
 Abaixo está o diagrama de classe do sistema:
 
