@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte do trabalho da disciplina **Modelagem e
 - **Atualizar Livro:** Atualizar informações de livros cadastrados.
 - **Remover Livro:** Excluir livros do sistema.
 - **Listar Livros:** Listar todos os livros disponíveis.
-- **Verificar Livro:** Verificar a disponibilidade de um livro.
+
 
 ### 👥 Gerenciamento de Leitores
 - **Cadastrar Leitor:** Cadastrar leitores, incluindo pessoas físicas e jurídicas.
