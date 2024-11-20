@@ -50,5 +50,5 @@ Abaixo está o diagrama de classe do sistema:
 - **Viviane Souza** - R.A: 924105503  
 - **Ana Lucia Soares de Oliveira** - R.A: 324101704  
 - **Guilherme da Silva Ferreira** - R.A: 924111677
-- **Lucas Souza Monção Silva** - R.A924111289
+- **Lucas Souza Monção Silva** - R.A: 924111289
 
