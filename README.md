@@ -41,10 +41,12 @@ Abaixo está o diagrama de classe do sistema:
 3. Compile e execute a classe principal `Main`.
 
 ## 👨‍💻 Colaboradores
-- **Lucas Barreto Olimpio** - R.A: 924100328 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-olimpio-b161251b2/) 
+- **Lucas Barreto Olimpio** - R.A: 924100328  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-olimpio-b161251b2/)
   
 
-- **Kelvin Felipe dos Santos** - R.A: 923200158  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-felipe-dos-santos-a087bb230/)
+- **Kelvin Felipe dos Santos** - R.A: 923200158  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-felipe-dos-santos-a087bb230/)
+  
+
 
   
 
