@@ -41,15 +41,12 @@ Abaixo está o diagrama de classe do sistema:
 3. Compile e execute a classe principal `Main`.
 
 ## 👨‍💻 Colaboradores
-- **Lucas Barreto Olimpio** - R.A: 924100328  
-  <a href="https://www.linkedin.com/in/lucas-barreto-olimpio-b161251b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:20px;">
-  </a>
+- **Lucas Barreto Olimpio** - R.A: 924100328 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-olimpio-b161251b2/) 
   
-- **Kelvin Felipe dos Santos** - R.A: 923200158  
-  <a href="https://www.linkedin.com/in/kelvin-felipe-dos-santos-a087bb230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:20px;">
-  </a>
+
+- **Kelvin Felipe dos Santos** - R.A: 923200158  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-felipe-dos-santos-a087bb230/)
+
+  
 
 - **Miguel Benites de Almeida** - R.A: 923209649  
 - **Thiago Rocha Santana** - R.A: 923204332
