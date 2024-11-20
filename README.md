@@ -45,5 +45,6 @@ Este projeto foi desenvolvido como parte do trabalho da disciplina **Modelagem e
 - **Lavínia Alves** - R.A: 924112295  
 - **Viviane Souza** - R.A: 924105503  
 - **Ana Lucia Soares de Oliveira** - R.A: 324101704  
-- **Guilherme da Silva Ferreira** - R.A: 924111677  
+- **Guilherme da Silva Ferreira** - R.A: 924111677
+- **Lucas Souza Monção Silva** - R.A924111289
 
